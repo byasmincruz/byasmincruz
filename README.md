@@ -1,12 +1,10 @@
-## Hi there 👋
-
-# 👩🏻‍💻 Yasmin Cruz
+## 👩🏻‍💻 Yasmin Cruz
 
 **`Estagiária em Dados`**
 
 Meu nome é Yasmin Cruz, tenho 20 anos e sou de São Paulo. Atualmente sou estudante de Ciência da Computação na UNIP, foco meus estudos na área de Dados e IA. Tenho grande admiração por tecnologia e procuro diariamente aprender mais sobre o que eu sou apaixonada.
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
